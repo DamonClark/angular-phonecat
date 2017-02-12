@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # AngularJS Phone Catalog Tutorial Application
 
 ## Overview
@@ -264,11 +262,4 @@ For more information on AngularJS please check out http://angularjs.org/
 [protractor]: https://github.com/angular/protractor
 [jasmine]: http://pivotal.github.com/jasmine/
 [karma]: http://karma-runner.github.io
-=======
-# angular-phonecat
-PhoneCat Tutorial App
->>>>>>> 903dd4601d9b428a40e7704c230482a41ccb812b
-=======
-# angular-phonecat
-PhoneCat Tutorial App
->>>>>>> 903dd4601d9b428a40e7704c230482a41ccb812b
+
